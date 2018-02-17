@@ -1,8 +1,7 @@
 /*********************************************************************
   This is the code for Fetching your location from Google Geolocation API
   
-  This code is provided by 
-  techiesms
+  This code is Edited By Mani sai
 *********************************************************************/
 
 #include <ESP8266HTTPClient.h>
