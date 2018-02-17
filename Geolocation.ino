@@ -1,8 +1,7 @@
 /*********************************************************************
   This is the code for Fetching your location from Google Geolocation API
   
-  This code is provided by 
-  techiesms
+  This code is Edited By Mani sai Prasad
 *********************************************************************/
 
 #include <SPI.h>
@@ -15,8 +14,8 @@
 #include <ArduinoJson.h>
 #include "ESP8266WiFi.h"
 
-char myssid[] = "SSID";         // your network SSID (name)
-char mypass[] = "PASS";          // your network password
+char myssid[] = "ManiSai";         // your network SSID (name)
+char mypass[] = "password";          // your network password
 
 
 //Credentials for Google GeoLocation API...
