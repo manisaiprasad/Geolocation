@@ -8,8 +8,8 @@
 #include <ArduinoJson.h>
 #include "ESP8266WiFi.h"
 
-char myssid[] = "SSID";         // your network SSID (name)
-char mypass[] = "PASS";          // your network password
+char myssid[] = "Mani Sai";         // your network SSID (name)
+char mypass[] = "password";          // your network password
 
 
 //Credentials for Google GeoLocation API...
